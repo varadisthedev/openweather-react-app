@@ -3,6 +3,8 @@
 This is a simple weather application built using React & Open weather api.
 It features a clean, modern minimal UI designed to display current weather conditions for any specified location.
 
+![Logo](https://raw.githubusercontent.com/varadisthedev/openweather-react-app/main/image.png)
+
 ## Features
 
 - **Weather Display**: Shows temperature, location, with a corresponding weather icon
